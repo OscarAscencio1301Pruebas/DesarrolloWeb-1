@@ -1,6 +1,6 @@
 # Api de StarWars Consumida
 
-## Personajes
+## Personajes más Importantes
 
 * Luke Skywalker
 * C-3PO
@@ -12,3 +12,6 @@
 * R5-D4
 * Biggs Darklighter
 * Obi-Wan Kenobi
+
+
+### Faltan Agregar Imagenes
