@@ -14,4 +14,3 @@
 * Obi-Wan Kenobi
 
 
-### Faltan Agregar Imagenes
