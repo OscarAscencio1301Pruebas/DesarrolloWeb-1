@@ -14,7 +14,7 @@
 * Obi-Wan Kenobi
 
 
-##Imagenes
+## Imágenes
 
 * Luke
 * Darth Vade
