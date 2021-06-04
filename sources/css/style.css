@@ -1,0 +1,22 @@
+body {
+    background-color: #f2f2f2;
+    padding: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.personajes {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.personaje {
+    border: 1px solid gray;
+    padding: 20px;
+    background: white;
+    border-radius: 20px;
+}
