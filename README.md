@@ -15,3 +15,7 @@
 
 
 ### Faltan Agregar Imagenes
+
+* Luke
+* Darth Vade
+* Joda
