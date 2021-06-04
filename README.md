@@ -19,4 +19,7 @@
 * Luke
 * Darth Vade
 * Joda
+* Owen Lars
+* Beru Whitesun lars
+* R5-D4
 
