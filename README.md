@@ -14,8 +14,9 @@
 * Obi-Wan Kenobi
 
 
-### Faltan Agregar Imagenes
+##Imagenes
 
 * Luke
 * Darth Vade
 * Joda
+
